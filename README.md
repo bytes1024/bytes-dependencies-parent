@@ -1,0 +1,2 @@
+# support-dependencies-parent
+dependencies
