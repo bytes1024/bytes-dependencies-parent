@@ -84,11 +84,11 @@
    <distributionManagement>
         <repository>
             <id>bytes1024-profile</id>
-            <url>http://nexus.bytes1024.org/repository/maven-releases/</url>
+            <url>http://nexus.bytes1024.cn/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>bytes1024-profile</id>
-            <url>http://nexus.bytes1024.org/repository/maven-snapshots/</url>
+            <url>http://nexus.bytes1024.cn/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
